@@ -145,6 +145,6 @@ Built using Godot 3.2.2
 Music and sound effects; shaders; add a face!
 
 ## Created by 
-Jason Francis
+Jason Steptoe
 
 ```
